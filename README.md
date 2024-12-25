@@ -1,31 +1,47 @@
-# Daily Coding Practice
+# Coding Challenges Repository
 
-A collection of coding challenges and solutions to improve my programming skills and showcase my problem-solving abilities.
+A collection of my solutions to various coding challenges from popular platforms, demonstrating my problem-solving skills and coding practices.
 
 ## Overview
 
-This repository contains my daily coding practice, featuring solutions to various programming challenges and algorithms. Each solution is implemented with clean code practices and includes detailed explanations.
+This repository showcases my journey through different coding challenges, including:
+
+- LeetCode - Data structures and algorithms practice (https://leetcode.com/)
+- Advent of Code - Annual coding challenges (https://adventofcode.com/)
+- AdventJS - JavaScript-focused coding challenges (https://adventjs.dev/)
+- Codewars - Skill-building katas (https://www.codewars.com/)
+- Codember - Programming challenges (https://codember.dev/)
 
 ## Technologies
 
 - JavaScript/TypeScript
-- React.js
-- Next.js
-- Node.js
 - Data Structures & Algorithms
+- Problem-solving patterns
+- Clean code practices
 
 ## Structure
 
-Solutions are organized by date and challenge type, making it easy to track progress and find specific implementations.
+```
+├── leetcode/      # LeetCode solutions
+├── adventofcode/  # Advent of Code challenges
+├── adventjs/      # AdventJS solutions
+├── codewars/      # Codewars katas
+└── codember/      # Codember challenges
+```
+
+## Goals
+
+- Improve problem-solving skills
+- Practice algorithmic thinking
+- Maintain consistent coding practice
+- Learn new programming concepts
 
 ## Contact
 
 Feel free to connect with me:
 
-- [LinkedIn](your-linkedin-url)
-- [Portfolio](your-portfolio-url)
-- Email: your.email@example.com
+- [Facundo Perez Montalvo](https://facuperezm.com)
 
-## License
-
-MIT License
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://facuperezm.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facuperezm/)
+[![github](https://img.shields.io/badge/github-555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facuperezm)
