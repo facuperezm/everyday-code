@@ -5,6 +5,8 @@
 // "riley" --> "Hello Riley!"
 // "JACK"  --> "Hello Jack!"
 
-var greet = function (name) {
-  return `Hello ${name[0].toString().toUpperCase() + name.slice(1)}!`;
-};
+function greet(name) {
+  return `Hello ${
+    name[0].toString().toUpperCase() + name.toLowerCase().slice(1)
+  }!`;
+}
