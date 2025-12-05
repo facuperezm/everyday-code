@@ -1,47 +1,117 @@
 # Coding Challenges Repository
 
-A collection of my solutions to various coding challenges from popular platforms, demonstrating my problem-solving skills and coding practices.
+A collection of **339+ solutions** to coding challenges from popular platforms, demonstrating problem-solving skills, algorithmic thinking, and clean code practices.
 
-## Overview
+## Stats at a Glance
 
-This repository showcases my journey through different coding challenges, including:
+| Metric | Count |
+|--------|-------|
+| **Total Problems Solved** | 339+ |
+| **Platforms** | 5 |
+| **Languages** | JavaScript, TypeScript |
+| **Years Active** | 2023 - Present |
 
-- LeetCode - Data structures and algorithms practice (https://leetcode.com/)
-- Advent of Code - Annual coding challenges (https://adventofcode.com/)
-- AdventJS - JavaScript-focused coding challenges (https://adventjs.dev/)
-- Codewars - Skill-building katas (https://www.codewars.com/)
-- Codember - Programming challenges (https://codember.dev/)
+## Skills Demonstrated
 
-## Technologies
+### Algorithms & Techniques
+- Array manipulation & traversal
+- String processing & pattern matching
+- Hash maps & frequency counting
+- Two-pointer technique
+- Sliding window
+- Recursion & iteration
+- Mathematical algorithms
+- Sorting & searching
 
-- JavaScript/TypeScript
-- Data Structures & Algorithms
-- Problem-solving patterns
-- Clean code practices
+### Data Structures
+- Arrays & Strings
+- Hash Maps / Objects
+- Sets
+- Stacks & Queues
 
-## Structure
+## Solutions by Platform
+
+### [Codewars](./codewars/) — 286 Solutions
+
+Skill-building katas organized by difficulty (kyu system: lower = harder).
+
+| Difficulty | Count | Level |
+|------------|-------|-------|
+| 8 kyu | 159 | Beginner |
+| 7 kyu | 87 | Easy |
+| 6 kyu | 36 | Medium |
+| 5 kyu | 4 | Hard |
+
+**Highlights:** Two Sum, Maximum Subarray Sum (Kadane's Algorithm), Moving Zeros, Mexican Wave, Tribonacci Sequence, Duplicate Encoder
+
+### [LeetCode](./leetcode/) — 12 Solutions
+
+Interview-focused problems organized by pattern.
+
+| Category | Problems |
+|----------|----------|
+| Array & String | Merge Sorted Array, Best Time to Buy/Sell Stock, Majority Element, Roman to Integer |
+| Two Pointers | Valid Palindrome, Is Subsequence |
+| Hash Map | Isomorphic Strings |
+
+### [AdventJS](./adventjs/) — 16 Solutions
+
+Christmas-themed JavaScript challenges from [adventjs.dev](https://adventjs.dev).
+
+| Year | Solutions | Language |
+|------|-----------|----------|
+| 2023 | 6 | JavaScript |
+| 2024 | 8 | JavaScript |
+| 2025 | 2 | TypeScript |
+
+### [Codember](./codember/) — 5 Solutions
+
+Programming challenges from [codember.dev](https://codember.dev).
+
+- Pattern validation
+- Password verification
+- File processing algorithms
+
+### [Advent of Code](./adventofcode/) — 1 Solution
+
+Annual algorithmic puzzles from [adventofcode.com](https://adventofcode.com).
+
+| Year | Days Completed |
+|------|----------------|
+| 2024 | Day 1 |
+
+## Repository Structure
 
 ```
-├── leetcode/      # LeetCode solutions
-├── adventofcode/  # Advent of Code challenges
-├── adventjs/      # AdventJS solutions
-├── codewars/      # Codewars katas
-└── codember/      # Codember challenges
+everyday-code/
+├── codewars/           # 286 katas by difficulty
+│   ├── 5kyu/           # Hard challenges
+│   ├── 6kyu/           # Medium challenges
+│   ├── 7kyu/           # Easy challenges
+│   └── 8kyu/           # Beginner challenges
+├── leetcode/           # 12 problems by pattern
+│   ├── array-string/
+│   ├── two-pointers/
+│   └── hashmap/
+├── adventjs/           # 16 seasonal challenges
+│   ├── 2023/
+│   ├── 2024/
+│   └── 2025/
+├── codember/           # 5 programming challenges
+│   └── 2024/
+└── adventofcode/       # Advent of Code solutions
+    └── 2024/
 ```
 
 ## Goals
 
-- Improve problem-solving skills
-- Practice algorithmic thinking
-- Maintain consistent coding practice
-- Learn new programming concepts
+- Improve problem-solving skills through consistent practice
+- Master common algorithmic patterns used in technical interviews
+- Write clean, readable, and maintainable code
+- Document my learning journey
 
-## Contact
+## Connect
 
-Feel free to connect with me:
-
-- [Facundo Perez Montalvo](https://facuperezm.com)
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://facuperezm.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facuperezm/)
-[![github](https://img.shields.io/badge/github-555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facuperezm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-facuperezm.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://facuperezm.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-facuperezm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facuperezm/)
+[![GitHub](https://img.shields.io/badge/GitHub-facuperezm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facuperezm)
